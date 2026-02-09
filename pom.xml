@@ -9,7 +9,7 @@
     <packaging>pom</packaging>
 
     <properties>
-        <blade.tool.version>2.4.1</blade.tool.version>
+        <blade.tool.version>2.8.0</blade.tool.version>
         <blade.project.version>2.4.1</blade.project.version>
 
         <java.version>1.8</java.version>
